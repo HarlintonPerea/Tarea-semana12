@@ -1,0 +1,7 @@
+Reflexión final - Semana 12
+
+Durante este curso aprendí que la tecnología puede ser una herramienta poderosa para fortalecer la participación ciudadana cuando se diseña pensando en las necesidades reales de la comunidad. Comprendí cómo un servidor backend, una base de datos y la generación automática de documentos pueden trabajar juntos para transformar una necesidad colectiva en una petición formal y organizada.
+
+También entendí la importancia de la seguridad y la protección de datos personales: recolectar solo la información necesaria y proteger los datos de quienes participan es una responsabilidad ética del desarrollador, no solo un requisito técnico. Aprendí que la automatización, mediante herramientas como n8n o Telegram, permite mantener informada a la comunidad sin exponer información sensible.
+
+En conjunto, el curso me mostró que construir soluciones con impacto social requiere combinar conocimientos técnicos con responsabilidad, transparencia y un enfoque centrado en fortalecer la exigibilidad democrática de las comunidades.
